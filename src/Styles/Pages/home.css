@@ -1,0 +1,88 @@
+.header{
+    display: flex;
+    justify-content: center;
+}
+
+.icon-header{
+    width: 100%;
+}
+
+.project{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    background-color: #014aad;
+    border-radius: 2rem;
+    width: 80%;
+    margin-left: 10%;
+    display: block;
+    justify-items: center;
+    text-align: center;
+    color: white;
+    font-size: 1.2em;
+}
+
+.project-name{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.title-project{
+    padding-top: 2%;
+    text-align: left;
+}
+.p1-project{
+    margin: 2% 5% 2% 5%;
+    text-align: justify;
+}
+
+.açoes{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.img-project{
+    width: 55%;
+    padding-right: 1rem;
+}
+
+.p2-project{
+    width: 40%;
+    text-align: left;
+}
+
+.people{
+    background-color: #ffffff;
+    background-image: linear-gradient(#ffffff, #c4c4c4);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.title-people{
+    text-shadow: none;
+}
+.people-name{
+    display: flex;
+    padding: 2em;
+    color: #014aad;
+    font-size: 1.4em;
+}
+.painel{
+    width: 55%;
+    padding-bottom: 2rem;
+    justify-content: space-between;
+}
+
+.painel-texto{
+    width: 40%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.people1{
+    display: flex;
+    width: 80%;
+    align-items: center;
+    justify-content: space-between;
+}
+

@@ -1,0 +1,59 @@
+.team-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2em;
+}
+
+.title-team{
+    color: #ffffff;
+}
+
+
+
+
+
+.cards-team{
+    /*background-color: #ffffff; */
+    border-radius: 1rem;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5%;
+    color: #000000;
+}
+
+
+.card{
+    width: 27%;
+    background-color: white;
+    text-align: center;
+    border-radius: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 0.5rem;
+    margin: 1em 1em;
+    color: #014aad;
+}
+
+.img-team{
+    width: 70%;
+    border-radius: 2rem;
+    margin: 10px auto;
+    max-width: 14rem;
+}
+
+.funçao-team{
+    width: 90%;
+    background-color: #c2c2c2;
+    border-radius: 5px;
+    margin: 1em 0.5em;
+    font-size: 0.9em;
+    font-weight: 300;
+    height: 10em;
+    text-align: justify;
+    padding: 0.5em;
+}

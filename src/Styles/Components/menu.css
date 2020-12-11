@@ -1,0 +1,27 @@
+.menu{
+    display: flex;
+    background-color: #f9f9f9;
+    justify-content: space-between;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    flex-wrap: wrap;
+}
+
+.frame-menu{
+    height: 90%;
+    width: 100%;
+    max-width: 595px;
+}
+.pages-menu{
+    color: #014aad;
+    font-style: italic;
+    font-family: "Open Sans Regular", sans-serif;
+    display: flex;
+    align-items: center;
+}
+
+
+#home-menu{
+    padding-right: 1rem;
+}
+
